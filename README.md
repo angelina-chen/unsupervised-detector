@@ -18,9 +18,6 @@ python run.py --input data.csv --output output/
 
 - `alerts.csv` — ranked alerts with type, keywords, growth rate, enrichment
 - `summary.txt` — human-readable alert narrative
-- `clusters.csv` — complaint_id to cluster mapping
-- `topic_info.json` — per-cluster keywords, sizes, temporal counts
-- `window_counts.csv` — cluster x window count matrix
 
 ## Configuration
 
