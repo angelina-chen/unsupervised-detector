@@ -1,0 +1,357 @@
+Conway Detector — Alert Summary
+============================================================
+
+Total alerts: 50
+
+  surging: 49
+  volume_spike: 1
+
+------------------------------------------------------------
+
+#1 [SURGING] Topic 2102: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 643, Baseline mean: 37.0
+   Growth rate: 17.38x, Recency: 0.60
+   Top products: Credit reporting or other personal consumer reports (1082), Credit reporting (107), Credit card (3)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (417), Experian Information Solutions Inc. (414), EQUIFAX, INC. (320)
+
+#2 [SURGING] Topic 683: incorrect, information, account, report
+   Keywords: incorrect, information, account, report
+   Current count: 220, Baseline mean: 25.3
+   Growth rate: 8.68x, Recency: 0.29
+   Top products: Credit reporting or other personal consumer reports (670), Credit reporting (88), Mortgage (4)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (265), EQUIFAX, INC. (207), Experian Information Solutions Inc. (205)
+
+#3 [VOLUME_SPIKE] Volume spike: product=Debt collection
+   Current count: 252, Baseline mean: 199.2
+   Growth rate: 1.27x, Recency: 0.00
+   Grouping: product=Debt collection
+
+#4 [SURGING] Topic 210: investigation, problem, days, took, existing
+   Keywords: investigation, problem, days, took, existing
+   Current count: 11, Baseline mean: 3.3
+   Growth rate: 3.30x, Recency: 0.25
+   Top products: Credit reporting or other personal consumer reports (56)
+   Top companies: EQUIFAX, INC. (22), Experian Information Solutions Inc. (20), TRANSUNION INTERMEDIATE HOLDINGS, INC. (14)
+
+#5 [SURGING] Topic 301: investigation, problem, days, took, existing
+   Keywords: investigation, problem, days, took, existing
+   Current count: 11, Baseline mean: 3.5
+   Growth rate: 3.14x, Recency: 0.25
+   Top products: Credit reporting or other personal consumer reports (63)
+   Top companies: EQUIFAX, INC. (26), TRANSUNION INTERMEDIATE HOLDINGS, INC. (22), Experian Information Solutions Inc. (14)
+
+#6 [SURGING] Topic 507: investigation, problem, error, fix, did
+   Keywords: investigation, problem, error, fix, did
+   Current count: 10, Baseline mean: 1.5
+   Growth rate: 6.67x, Recency: 0.35
+   Top products: Credit reporting or other personal consumer reports (34)
+   Top companies: Experian Information Solutions Inc. (14), EQUIFAX, INC. (9), TRANSUNION INTERMEDIATE HOLDINGS, INC. (7)
+
+#7 [SURGING] Topic 763: investigation, problem, days, took, existing
+   Keywords: investigation, problem, days, took, existing
+   Current count: 10, Baseline mean: 0.5
+   Growth rate: 20.00x, Recency: 0.57
+   Top products: Credit reporting or other personal consumer reports (23)
+   Top companies: Experian Information Solutions Inc. (8), EQUIFAX, INC. (8), TRANSUNION INTERMEDIATE HOLDINGS, INC. (6)
+
+#8 [SURGING] Topic 151: investigation, problem, error, fix, did
+   Keywords: investigation, problem, error, fix, did
+   Current count: 9, Baseline mean: 2.3
+   Growth rate: 3.86x, Recency: 0.17
+   Top products: Credit reporting or other personal consumer reports (62), Credit card (1)
+   Top companies: Experian Information Solutions Inc. (29), TRANSUNION INTERMEDIATE HOLDINGS, INC. (17), EQUIFAX, INC. (15)
+
+#9 [SURGING] Topic 479: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 7, Baseline mean: 2.2
+   Growth rate: 3.23x, Recency: 0.19
+   Top products: Credit reporting or other personal consumer reports (34), Credit reporting (3)
+   Top companies: EQUIFAX, INC. (15), TRANSUNION INTERMEDIATE HOLDINGS, INC. (10), Experian Information Solutions Inc. (6)
+
+#10 [SURGING] Topic 574: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 7, Baseline mean: 2.2
+   Growth rate: 3.23x, Recency: 0.25
+   Top products: Credit reporting or other personal consumer reports (35), Credit reporting (5)
+   Top companies: Experian Information Solutions Inc. (18), TRANSUNION INTERMEDIATE HOLDINGS, INC. (13), EQUIFAX, INC. (7)
+
+#11 [SURGING] Topic 577: status, incorrect, account, information, report
+   Keywords: status, incorrect, account, information, report
+   Current count: 7, Baseline mean: 1.7
+   Growth rate: 4.20x, Recency: 0.22
+   Top products: Credit reporting or other personal consumer reports (32), Credit reporting (6), Credit card (3)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (13), Experian Information Solutions Inc. (12), EQUIFAX, INC. (10)
+
+#12 [SURGING] Topic 1417: status, incorrect, account, information, report
+   Keywords: status, incorrect, account, information, report
+   Current count: 7, Baseline mean: 1.3
+   Growth rate: 5.25x, Recency: 0.31
+   Top products: Credit reporting or other personal consumer reports (26), Credit reporting (4), Credit card (2)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (15), Experian Information Solutions Inc. (7), EQUIFAX, INC. (6)
+
+#13 [SURGING] Topic 1778: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 7, Baseline mean: 1.2
+   Growth rate: 6.00x, Recency: 0.29
+   Top products: Credit reporting or other personal consumer reports (24), Credit reporting (7)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (15), EQUIFAX, INC. (10), Experian Information Solutions Inc. (5)
+
+#14 [SURGING] Topic 72: investigation, problem, error, fix, did
+   Keywords: investigation, problem, error, fix, did
+   Current count: 6, Baseline mean: 1.3
+   Growth rate: 4.50x, Recency: 0.19
+   Top products: Credit reporting or other personal consumer reports (53)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (24), EQUIFAX, INC. (19), Experian Information Solutions Inc. (8)
+
+#15 [SURGING] Topic 311: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 6, Baseline mean: 1.2
+   Growth rate: 5.14x, Recency: 0.23
+   Top products: Credit reporting or other personal consumer reports (25), Credit reporting (5)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (13), EQUIFAX, INC. (12), Experian Information Solutions Inc. (3)
+
+#16 [SURGING] Topic 361: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 6, Baseline mean: 1.7
+   Growth rate: 3.60x, Recency: 0.24
+   Top products: Credit reporting or other personal consumer reports (26), Credit reporting (3)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (16), Experian Information Solutions Inc. (7), EQUIFAX, INC. (4)
+
+#17 [SURGING] Topic 395: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 6, Baseline mean: 1.8
+   Growth rate: 3.27x, Recency: 0.14
+   Top products: Credit reporting or other personal consumer reports (42), Credit reporting (2)
+   Top companies: EQUIFAX, INC. (19), TRANSUNION INTERMEDIATE HOLDINGS, INC. (13), Experian Information Solutions Inc. (10)
+
+#18 [SURGING] Topic 602: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 6, Baseline mean: 1.7
+   Growth rate: 3.60x, Recency: 0.24
+   Top products: Credit reporting or other personal consumer reports (32), Credit reporting (2)
+   Top companies: Experian Information Solutions Inc. (12), EQUIFAX, INC. (9), TRANSUNION INTERMEDIATE HOLDINGS, INC. (8)
+
+#19 [SURGING] Topic 947: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 6, Baseline mean: 1.0
+   Growth rate: 6.00x, Recency: 0.29
+   Top products: Credit reporting or other personal consumer reports (31), Credit reporting (3)
+   Top companies: Experian Information Solutions Inc. (14), EQUIFAX, INC. (11), TRANSUNION INTERMEDIATE HOLDINGS, INC. (9)
+
+#20 [SURGING] Topic 1232: investigation, problem, notified, results, status
+   Keywords: investigation, problem, notified, results, status
+   Current count: 6, Baseline mean: 1.2
+   Growth rate: 5.14x, Recency: 0.20
+   Top products: Credit reporting or other personal consumer reports (37), Credit card (9)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (18), Experian Information Solutions Inc. (16), EQUIFAX, INC. (10)
+
+#21 [SURGING] Topic 1278: making, payments, problem, money, sending
+   Keywords: making, payments, problem, money, sending
+   Current count: 6, Baseline mean: 0.8
+   Growth rate: 7.20x, Recency: 0.13
+   Top products: Personal loan (35), Payday loan, title loan, personal loan, or advance loan (22), Bank account (7)
+   Top companies: PNC Bank N.A. (5), WELLS FARGO & COMPANY (5), MoneyLion Inc. (5)
+
+#22 [SURGING] Topic 1381: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 6, Baseline mean: 1.3
+   Growth rate: 4.50x, Recency: 0.27
+   Top products: Credit reporting or other personal consumer reports (26), Credit reporting (4)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (10), Experian Information Solutions Inc. (9), EQUIFAX, INC. (8)
+
+#23 [SURGING] Topic 1583: threatened, suggested, damaged, negative, action
+   Keywords: threatened, suggested, damaged, negative, action
+   Current count: 6, Baseline mean: 0.7
+   Growth rate: 9.00x, Recency: 0.40
+   Top products: Debt collection (25)
+   Top companies: Resurgent Capital Services L.P. (5), Experian Information Solutions Inc. (3), ENCORE CAPITAL GROUP INC. (2)
+
+#24 [SURGING] Topic 1629: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 6, Baseline mean: 1.2
+   Growth rate: 5.14x, Recency: 0.21
+   Top products: Credit reporting or other personal consumer reports (29), Credit reporting (5)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (14), Experian Information Solutions Inc. (11), EQUIFAX, INC. (9)
+
+#25 [SURGING] Topic 1681: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 6, Baseline mean: 1.7
+   Growth rate: 3.60x, Recency: 0.19
+   Top products: Credit reporting or other personal consumer reports (25), Credit reporting (7)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (14), Experian Information Solutions Inc. (9), EQUIFAX, INC. (7)
+
+#26 [SURGING] Topic 2119: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 6, Baseline mean: 1.0
+   Growth rate: 6.00x, Recency: 0.27
+   Top products: Credit reporting or other personal consumer reports (20), Credit reporting (6)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (10), EQUIFAX, INC. (7), Experian Information Solutions Inc. (6)
+
+#27 [SURGING] Topic 2472: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 6, Baseline mean: 1.8
+   Growth rate: 3.27x, Recency: 0.34
+   Top products: Credit reporting or other personal consumer reports (31), Credit reporting (1)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (11), EQUIFAX, INC. (9), Experian Information Solutions Inc. (9)
+
+#28 [SURGING] Topic 18: status, incorrect, account, information, report
+   Keywords: status, incorrect, account, information, report
+   Current count: 5, Baseline mean: 0.5
+   Growth rate: 10.00x, Recency: 0.23
+   Top products: Credit reporting or other personal consumer reports (20), Credit reporting (6)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (10), EQUIFAX, INC. (9), Experian Information Solutions Inc. (6)
+
+#29 [SURGING] Topic 41: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 5, Baseline mean: 1.3
+   Growth rate: 3.75x, Recency: 0.20
+   Top products: Credit reporting or other personal consumer reports (25), Credit reporting (5)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (12), EQUIFAX, INC. (10), Experian Information Solutions Inc. (5)
+
+#30 [SURGING] Topic 397: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 5, Baseline mean: 1.2
+   Growth rate: 4.29x, Recency: 0.19
+   Top products: Credit reporting or other personal consumer reports (25), Credit reporting (2)
+   Top companies: EQUIFAX, INC. (10), TRANSUNION INTERMEDIATE HOLDINGS, INC. (7), Experian Information Solutions Inc. (7)
+
+#31 [SURGING] Topic 552: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 5, Baseline mean: 0.7
+   Growth rate: 7.50x, Recency: 0.29
+   Top products: Credit reporting or other personal consumer reports (19), Credit reporting (2)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (9), Experian Information Solutions Inc. (9), EQUIFAX, INC. (2)
+
+#32 [SURGING] Topic 609: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 5, Baseline mean: 1.3
+   Growth rate: 3.75x, Recency: 0.19
+   Top products: Credit reporting or other personal consumer reports (31)
+   Top companies: Experian Information Solutions Inc. (14), TRANSUNION INTERMEDIATE HOLDINGS, INC. (9), EQUIFAX, INC. (5)
+
+#33 [SURGING] Topic 1258: bad, servicer, dealing, received, lender
+   Keywords: bad, servicer, dealing, received, lender
+   Current count: 5, Baseline mean: 0.3
+   Growth rate: 15.00x, Recency: 0.11
+   Top products: Student loan (44)
+   Top companies: MOHELA (12), Navient Solutions, LLC. (11), AES/PHEAA (7)
+
+#34 [SURGING] Topic 1323: debt, attempts, owed, collect
+   Keywords: debt, attempts, owed, collect
+   Current count: 5, Baseline mean: 1.2
+   Growth rate: 4.29x, Recency: 0.11
+   Top products: Debt collection (46)
+   Top companies: CL Holdings LLC (6), Resurgent Capital Services L.P. (4), TRANSUNION INTERMEDIATE HOLDINGS, INC. (3)
+
+#35 [SURGING] Topic 1451: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 5, Baseline mean: 0.8
+   Growth rate: 6.00x, Recency: 0.21
+   Top products: Credit reporting or other personal consumer reports (21), Credit reporting (3)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (9), Experian Information Solutions Inc. (7), EQUIFAX, INC. (6)
+
+#36 [SURGING] Topic 1989: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 5, Baseline mean: 1.5
+   Growth rate: 3.33x, Recency: 0.24
+   Top products: Credit reporting or other personal consumer reports (31), Credit reporting (3)
+   Top companies: EQUIFAX, INC. (16), Experian Information Solutions Inc. (8), TRANSUNION INTERMEDIATE HOLDINGS, INC. (8)
+
+#37 [SURGING] Topic 2039: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 5, Baseline mean: 1.0
+   Growth rate: 5.00x, Recency: 0.35
+   Top products: Credit reporting or other personal consumer reports (23)
+   Top companies: EQUIFAX, INC. (11), Experian Information Solutions Inc. (10), TRANSUNION INTERMEDIATE HOLDINGS, INC. (2)
+
+#38 [SURGING] Topic 2055: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 5, Baseline mean: 0.5
+   Growth rate: 10.00x, Recency: 0.20
+   Top products: Credit reporting or other personal consumer reports (20), Credit reporting (5)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (9), Experian Information Solutions Inc. (9), EQUIFAX, INC. (7)
+
+#39 [SURGING] Topic 2084: personal, incorrect, information, report
+   Keywords: personal, incorrect, information, report
+   Current count: 5, Baseline mean: 1.2
+   Growth rate: 4.29x, Recency: 0.14
+   Top products: Credit reporting or other personal consumer reports (37), Credit reporting (20), Credit card (1)
+   Top companies: Experian Information Solutions Inc. (19), TRANSUNION INTERMEDIATE HOLDINGS, INC. (19), EQUIFAX, INC. (17)
+
+#40 [SURGING] Topic 2168: used, improperly, reporting, improper, use
+   Keywords: used, improperly, reporting, improper, use
+   Current count: 5, Baseline mean: 1.3
+   Growth rate: 3.75x, Recency: 0.18
+   Top products: Credit reporting or other personal consumer reports (32), Credit reporting (1)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (14), EQUIFAX, INC. (9), Experian Information Solutions Inc. (8)
+
+#41 [SURGING] Topic 2176: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 5, Baseline mean: 1.0
+   Growth rate: 5.00x, Recency: 0.21
+   Top products: Credit reporting or other personal consumer reports (22), Credit reporting (7)
+   Top companies: Experian Information Solutions Inc. (10), EQUIFAX, INC. (9), TRANSUNION INTERMEDIATE HOLDINGS, INC. (8)
+
+#42 [SURGING] Topic 2183: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 5, Baseline mean: 1.2
+   Growth rate: 4.29x, Recency: 0.18
+   Top products: Credit reporting or other personal consumer reports (25), Credit reporting (3)
+   Top companies: Experian Information Solutions Inc. (13), TRANSUNION INTERMEDIATE HOLDINGS, INC. (9), EQUIFAX, INC. (6)
+
+#43 [SURGING] Topic 2561: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 5, Baseline mean: 1.3
+   Growth rate: 3.75x, Recency: 0.17
+   Top products: Credit reporting or other personal consumer reports (22), Credit reporting (7)
+   Top companies: Experian Information Solutions Inc. (11), EQUIFAX, INC. (9), TRANSUNION INTERMEDIATE HOLDINGS, INC. (8)
+
+#44 [SURGING] Topic 2624: incorrect, information, account, report
+   Keywords: incorrect, information, account, report
+   Current count: 5, Baseline mean: 0.8
+   Growth rate: 6.00x, Recency: 0.24
+   Top products: Credit reporting or other personal consumer reports (19), Credit reporting (2)
+   Top companies: TRANSUNION INTERMEDIATE HOLDINGS, INC. (8), Experian Information Solutions Inc. (6), EQUIFAX, INC. (5)
+
+#45 [SURGING] Topic 2660: incorrect, information, account, report
+   Keywords: incorrect, information, account, report
+   Current count: 5, Baseline mean: 1.0
+   Growth rate: 5.00x, Recency: 0.14
+   Top products: Credit reporting or other personal consumer reports (35), Credit reporting (2)
+   Top companies: EQUIFAX, INC. (13), TRANSUNION INTERMEDIATE HOLDINGS, INC. (12), Experian Information Solutions Inc. (8)
+
+#46 [SURGING] Topic 2690: incorrect, information, account, report
+   Keywords: incorrect, information, account, report
+   Current count: 5, Baseline mean: 0.8
+   Growth rate: 6.00x, Recency: 0.22
+   Top products: Credit reporting or other personal consumer reports (16), Credit reporting (5), Credit card (1)
+   Top companies: EQUIFAX, INC. (8), Experian Information Solutions Inc. (7), TRANSUNION INTERMEDIATE HOLDINGS, INC. (4)
+
+#47 [SURGING] Topic 2740: information, belongs, incorrect, report
+   Keywords: information, belongs, incorrect, report
+   Current count: 5, Baseline mean: 0.8
+   Growth rate: 6.00x, Recency: 0.29
+   Top products: Credit reporting or other personal consumer reports (14), Credit reporting (3)
+   Top companies: Experian Information Solutions Inc. (8), TRANSUNION INTERMEDIATE HOLDINGS, INC. (5), EQUIFAX, INC. (3)
+
+#48 [SURGING] Topic 14: alerts, freezes, security, fraud, problem
+   Keywords: alerts, freezes, security, fraud, problem
+   Current count: 4, Baseline mean: 1.0
+   Growth rate: 4.00x, Recency: 0.07
+   Top products: Credit reporting (36), Credit reporting or other personal consumer reports (35), Bank account (1)
+   Top companies: Experian Information Solutions Inc. (22), EQUIFAX, INC. (21), TRANSUNION INTERMEDIATE HOLDINGS, INC. (9)
+
+#49 [SURGING] Topic 15: alerts, freezes, security, fraud, problem
+   Keywords: alerts, freezes, security, fraud, problem
+   Current count: 4, Baseline mean: 1.2
+   Growth rate: 3.43x, Recency: 0.08
+   Top products: Credit reporting or other personal consumer reports (41), Credit reporting (34)
+   Top companies: Experian Information Solutions Inc. (24), TRANSUNION INTERMEDIATE HOLDINGS, INC. (21), EQUIFAX, INC. (19)
+
+#50 [SURGING] Topic 29: status, incorrect, account, information, report
+   Keywords: status, incorrect, account, information, report
+   Current count: 4, Baseline mean: 0.3
+   Growth rate: 12.00x, Recency: 0.17
+   Top products: Credit reporting or other personal consumer reports (18), Credit reporting (5)
+   Top companies: EQUIFAX, INC. (7), Experian Information Solutions Inc. (6), TRANSUNION INTERMEDIATE HOLDINGS, INC. (5)
