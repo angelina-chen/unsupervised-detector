@@ -1,8 +1,10 @@
 # unsupervised-detector
 
-Unsupervised detector for customer complaint patterns. Embeds text, clusters topics, tracks evolution over time, and flags emerging, surging, novel, and disappearing patterns. Takes in all complaints data as complaints.csv file from CFPB consumer complaint database (https://www.consumerfinance.gov/data-research/consumer-complaints/).
+Unsupervised detector for customer complaint patterns. Embeds text, clusters topics, tracks evolution over time, and flags emerging, surging, novel, and disappearing patterns. 
 
 ## Quick Start
+
+Download all complaints data as complaints.csv file from CFPB consumer complaint database (https://www.consumerfinance.gov/data-research/consumer-complaints/).
 
 ```bash
 pip install -r requirements.txt
